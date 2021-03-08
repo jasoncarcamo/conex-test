@@ -63,10 +63,10 @@
     
     #first-section-table{
         display: block;
+        flex: none;
         margin: 1em 0;
         padding: 0;
-        flex: none;
-        height: 25em !important;
+        height: 20em !important;
         overflow: auto;
     }
     
@@ -80,7 +80,7 @@
     
     .first-section-tr{
         border: 1px solid black;
-        min-height: 10em;
+        min-height: auto;
         margin: 0 .25em;
     }
     
@@ -88,7 +88,7 @@
         overflow: auto;
         padding: 0 .5em;
         margin: 1em 0;
-        height: 30em !important;
+        height: 20em !important;
         flex: none;
     }
     

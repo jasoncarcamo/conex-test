@@ -21,6 +21,7 @@
     display: grid !important;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1f 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 1em;
     margin: 0;
     padding: 0;
 }
@@ -66,7 +67,7 @@
         flex: none;
         margin: 1em 0;
         padding: 0;
-        height: 20em !important;
+        height: 25em !important;
         overflow: auto;
     }
     
@@ -74,6 +75,7 @@
         display: grid !important;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1f 1fr;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        gap: .5em;
         margin: 0;
         padding: 0;
     }
@@ -81,7 +83,7 @@
     .first-section-tr{
         border: 1px solid black;
         min-height: auto;
-        margin: 0 .25em;
+        margin: 0;
     }
     
     #text-section{

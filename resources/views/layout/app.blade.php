@@ -10,6 +10,8 @@
         <link href="css/home/secondsection.css" rel="stylesheet"/>
     </head>
     <body>
-        @yield("content")
+        <main>
+            @yield("content")
+        </main>
     </body>
 </html>

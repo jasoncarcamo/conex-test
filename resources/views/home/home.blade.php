@@ -7,3 +7,4 @@
     @include("home.firstsection")
     @include("home.secondsection")
 </section>
+@stop

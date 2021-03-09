@@ -14,7 +14,7 @@
     </table>
 
     <section id="text-section">
-        <h1 id="text-section-header">Heading Sample</h1>
+        <h2 id="text-section-header">Heading Sample</h2>
 
         <p id="paragraph-text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate, elit et rhoncus aliquam, mi felis lacinia eros, a rutrum ante ex a ligula. Etiam facilisis scelerisque consectetur. Nullam rhoncus iaculis leo, sed aliquam justo semper at. Maecenas interdum consequat erat, maximus porta nibh dapibus quis. Vivamus porttitor, tellus nec condimentum viverra, quam ex lacinia arcu, a vulputate nibh nibh quis metus. Nulla varius massa vel lectus tincidunt, eget eleifend diam blandit. Proin commodo, magna et iaculis finibus, erat felis dapibus nisl, et feugiat dolor felis sit amet nisi. Quisque quis orci rhoncus, mollis libero vitae, venenatis magna. Curabitur nulla neque, pharetra et felis placerat, eleifend molestie ex. Sed gravida neque sapien, sed posuere risus maximus non. Sed blandit est in accumsan vestibulum. Aenean metus magna, semper et blandit gravida, pharetra id enim. Fusce volutpat posuere augue, non varius sem feugiat vel. Duis egestas porttitor leo, vitae ullamcorper velit egestas in.
